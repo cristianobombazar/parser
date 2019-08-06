@@ -3,7 +3,6 @@ package com.ef.parser.dto;
 import com.beust.jcommander.IStringConverter;
 import com.beust.jcommander.Parameter;
 import com.beust.jcommander.Parameters;
-import com.beust.jcommander.validators.PositiveInteger;
 import com.ef.parser.enuns.DurationTime;
 import com.ef.parser.util.DateUtil;
 import lombok.AllArgsConstructor;

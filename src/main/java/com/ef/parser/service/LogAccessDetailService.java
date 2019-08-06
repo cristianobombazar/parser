@@ -2,7 +2,6 @@ package com.ef.parser.service;
 
 import com.ef.parser.model.LogAccessDetail;
 import com.ef.parser.repository.LogAccessDetailRepository;
-import com.ef.parser.repository.LogAccessRepository;
 import org.springframework.stereotype.Service;
 
 @Service

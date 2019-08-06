@@ -3,10 +3,7 @@ package com.ef.parser.service;
 import com.ef.parser.model.LogAccess;
 import com.ef.parser.util.DateUtil;
 import com.ef.parser.util.FileUtils;
-import org.springframework.core.io.ClassPathResource;
-import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
-import org.springframework.util.FileCopyUtils;
 
 import java.io.File;
 import java.io.IOException;

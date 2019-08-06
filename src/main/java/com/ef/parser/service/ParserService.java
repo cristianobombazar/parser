@@ -28,7 +28,7 @@ public class ParserService {
 
     public void parse(ApplicationArguments applicationArguments) throws IOException {
         System.out.println("Inserting data...");
-        //insertData();
+        insertData();
         System.out.println("Done.");
         LocalDateTime startDate = applicationArguments.getStartDate();
         LocalDateTime endDate   = applicationArguments.getDuration().apply(startDate);
